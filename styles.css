@@ -1,0 +1,25 @@
+body{
+    padding:30%;
+    padding-top: -500px;
+}
+.onebtn{
+    background-color: blue;
+    color:white;
+    padding: 15px;
+    text-align: center;
+}
+.twobtn{
+    background-color: red;
+    color:white;
+    padding: 15px;
+    text-align: center;
+}
+
+.data{
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+    background-color: royalblue;
+    color:white;
+    padding: 10%;
+}
